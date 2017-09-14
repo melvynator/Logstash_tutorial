@@ -5,6 +5,7 @@ The `tutorial` folder contains a fully working example that I use in the present
 We assume that you already have installed:
 
 [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/setup.html)
+
 [Logstash](https://www.elastic.co/guide/en/logstash/current/installing-logstash.html)
 
 This tutorial allow you to put in application your knowledge of Logstash in order to create your own pipeline for some random tweets and adding in the pipeline some Machine Learning. First of all if it's not already done:
